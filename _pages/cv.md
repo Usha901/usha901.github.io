@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /usha901.github.io/Usha_Shrestha_Resume.pdf/
 author_profile: true
 redirect_from:
   - /Usha_Shrestha_Resume.pdf
