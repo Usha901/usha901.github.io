@@ -82,7 +82,7 @@ author:
       url: "https://www.youtube.com/@MadanBaduwal"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      url: "https://www.linkedin.com/in/MadanBaduwal"
+      url: "https://www.linkedin.com/in/shresthausha"
     - label: "Google Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=mIEdm2IAAAAJ&hl=en"
@@ -104,12 +104,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/MadanBaduwal1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MadanBaduwal"
+      url: "https://github.com/usha901"
 
 defaults:
   # _posts
@@ -158,12 +155,11 @@ google-site-verification: "7PTmUxxTjmF3fgdhOmPbB5uNjkzCLD5vhItBRnJJSZY"  # get f
 
 social:
   type:  Person
-  name:  Madan Baduwal
+  name:  Usha Shrestha
   links:
-    - "https://twitter.com/MadanBaduwal1"
-    - "https://github.com/MadanBaduwal"
-    - "https://www.linkedin.com/in/MadanBaduwal/"
-    - "https://stackoverflow.com/users/13783264"
+    - "https://github.com/Usha901"
+    - "https://www.linkedin.com/in/shresthausha/"
+    
 
 google:
   search_engine_id: f40dfec50840f5334
