@@ -13,19 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Madan Baduwal
-email: madanbaduwal100@gmail.com
-description:  "Machine Learning Engineer|NLP|Perception(computer vision)|Motion and manipulation(robotics)|Social intelligence |General intelligence"
+title: Usha Shrestha
+email: shrestha_u53095@utpb.edu
+description:  "Pursuing a bachelor's degree in Computer Science from UTPB."
 url: "https://usha901.github.io"
-twitter_username: MadanBaduwal1
-github_username: MadanBaduwal
-stackoverflow_username: madan-baduwal
-linkiden_username: MadanBaduwal
+github_username: usha901
+linkiden_username: Usha Shrestha
 minimal_mistakes_skin: "default"
 search: true
 
-twitter:
-  username: "MadanBaduwal1"
+
 
 # Build settings
 markdown: kramdown
