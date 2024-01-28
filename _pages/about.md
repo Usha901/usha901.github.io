@@ -15,7 +15,7 @@ redirect_from:
 
 I am pursuing a bachelor's degree in Computer Science(B.S) at The University Of Texas Permian Basin (UTPB). My minor is Mathematics. 
 
-Checking out my [Resume](https://Usha_Shrestha_Resume (1).pdf).
+Checking out my [Resume](https://Usha_Shrestha_Resume.pdf).
 
 You can also send me an email: ```shrestha_u53095@utpb.edu```. 
 
