@@ -68,16 +68,15 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  name   : "Madan Baduwal"
-  avatar : "/images/my-image.png"
-  bio    : "Machine Learning Engineer"
-  email  : "madanbaduwal100@gmail.com"
+  name   : "Usha Shrestha"
+  avatar : "/images/Usha Shrestha.jpg"
+  bio    : "Computer Science"
+  email  : "shrestha_u53095@utpb.edu"
   location  : "Odessa, Texas"
-  leetcode : "MadanBaduwal"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/MadanBaduwal"
+      url: "https://github.com/Usha901"
     - label: "Youtube"
       icon: "fab fa-youtube"
       url: "https://www.youtube.com/@MadanBaduwal"
