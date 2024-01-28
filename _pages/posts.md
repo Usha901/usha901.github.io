@@ -1,6 +1,6 @@
 ---
 title: "Topics"
-permalink: /posts/
+permalink: 
 layout: categories
 author_profile: true
 ---
