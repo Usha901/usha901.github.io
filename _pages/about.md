@@ -13,7 +13,7 @@ redirect_from:
 <!--  I'm a passionate computer science student on a journey to explore the exciting realms of technology. Currently pursuing my degree in computer science, I have a keen interest in [specific areas of interest, e.g., machine learning, web development, algorithms]. -->
 
 
-I am pursuing a bachelor's degree in Computer Science(B.S) at The University Of Texas Permian Basin (UTPB). My minor is Mathematics. 
+I am pursuing a bachelor's degree in Computer Science(B.S) at The University Of Texas Permian Basin (UTPB). My minor is Mathematics.  My intreast lies in full stack software engineering. 
 
 Checking out my [Resume](https://usha901.github.io/Usha_Shrestha_Resume.pdf).
 
